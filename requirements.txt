@@ -2,4 +2,3 @@ argparse
 asyncio
 pymysql
 python-yarbo
-traceback
