@@ -1,0 +1,14 @@
+{
+  "ip": "192.168.1.xxx",
+  "sn": "ABC123",
+  "db_config": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "",
+    "database": "yarbo",
+    "autocommit": true
+  },
+  "table": "telemetry",
+  "fallback_logs": "telemetry.json"
+}
